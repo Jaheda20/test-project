@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "image": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "rank": "3",
+    "profession": "Frontend Developer"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Martinez",
+    "age": 34,
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "rank": "4",
+    "profession": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "name": "Emma Smith",
+    "age": 22,
+    "image": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "rank": "7",
+    "profession": "UI/UX Designer"
+  },
+  {
+    "id": 4,
+    "name": "Ming Li",
+    "age": 40,
+    "image": "https://c.stocksy.com/a/P5eA00/z9/2537375.jpg",
+    "country": "China",
+    "flag": "🇨🇳",
+    "rank": "2",
+    "profession": "Full Stack Developer"
+  },
+  {
+    "id": 5,
+    "name": "Sophie Dupont",
+    "age": 29,
+    "image": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+    "country": "France",
+    "flag": "🇫🇷",
+    "rank": "5",
+    "profession": "Data Scientist"
+  },
+  {
+    "id": 6,
+    "name": "Luca Rossi",
+    "age": 31,
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "rank": "6",
+    "profession": "DevOps Engineer"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Khan",
+    "age": 25,
+    "image": "https://img.freepik.com/free-photo/portrait-female-tourist-visiting-great-wall-china_23-2151261868.jpg",
+    "country": "Pakistan",
+    "flag": "🇵🇰",
+    "rank": "5",
+    "profession": "Product Manager"
+  },
+  {
+    "id": 8,
+    "name": "John Doe",
+    "age": 38,
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "rank": "4",
+    "profession": "Software Architect"
+  },
+  {
+    "id": 9,
+    "name": "Hana Kim",
+    "age": 26,
+    "image": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "rank": "7",
+    "profession": "Graphic Designer"
+  },
+  {
+    "id": 10,
+    "name": "Mikhail Ivanov",
+    "age": 33,
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "rank": "2",
+    "profession": "Mobile Developer"
+  },
+  {
+    "id": 11,
+    "name": "Lina Schmidt",
+    "age": 27,
+    "image": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "rank": "1",
+    "profession": "Cybersecurity Expert"
+  },
+  {
+    "id": 12,
+    "name": "Ahmed Al-Farsi",
+    "age": 30,
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+    "country": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "rank": "3",
+    "profession": "Blockchain Developer"
+  }
+]
